@@ -38,7 +38,7 @@
     "neo-async": "^2.5.0",
     "node-dir": "0.1.8",
     "nomnom": "^1.8.1",
-    "recast": "^0.15.0",
+    "recast": "git+https://github.com/villesau/recast.git#e1ded4c1b3ec2f6f1190e591dd0b9a3ba4eeb307",
     "temp": "^0.8.1",
     "write-file-atomic": "^1.2.0"
   },
